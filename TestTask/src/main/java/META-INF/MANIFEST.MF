@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\INST\IdeaProjects\TestTask\src\main\java
+Main-Class: Main
+
